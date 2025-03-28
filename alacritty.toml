@@ -1,4 +1,4 @@
-import = [ "/usr/lib/node_modules/alacritty-themes/themes/Dwmrob.toml" ]
+general.import = [ "/usr/lib/node_modules/alacritty-themes/themes/Dwmrob.toml" ]
 
 [colors.bright]
 black = "#565656"
@@ -25,4 +25,7 @@ background = "#101421"
 foreground = "#fffbf6"
 
 [window]
-opacity = 0.80
+opacity = 0.75
+
+[font]
+size = 14.0
